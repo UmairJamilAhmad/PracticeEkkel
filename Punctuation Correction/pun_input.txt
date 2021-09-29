@@ -1,0 +1,16 @@
+Incorrect: winston is one of the most laid back people I know, he is tall and slim with black hair, and he always wears a tshirt and black jeans. his jeans have holes in them, and his baseball boots are scruffy; too.
+'''
+Correct: Winston is one of the most laid-back people I know. He is tall and slim with black hair, and he always wears a t-shirt and black jeans. His jeans have holes in them, and his baseball boots are scruffy, too. 
+###
+Incorrect: he usually sits at the back of the class, and he often seems to be asleep. However when the exam results are given out he always gets an "A". I don't think hes as lazy as he appears to be, 
+'''
+Correct: He usually sits at the back of the class, and he often seems to be asleep. However, when the exam results are given out he always gets an "A". I don't think he's as lazy as he appears to be.
+###
+Incorrect: Once upon a time there lived a shepherd boy who was bored watching his flock of sheep on the hill. to amuse himself, he shouted, “Wolf, Wolf The sheep are being chased by the wolf” The villagers came running to help the boy and save the sheep They found nothing and the boy just laughed looking at their angry faces 
+'''
+Correct: Once upon a time, there lived a shepherd boy who was bored watching his flock of sheep on the hill. To amuse himself, he shouted, “Wolf! Wolf! The sheep are being chased by the wolf!” The villagers came running to help the boy and save the sheep. They found nothing and the boy just laughed looking at their angry faces.
+###
+Incorrect: “Dont cry ‘wolf’ when theres no wolf boy” they said angrily and left. The boy just laughed at them. After a while he got bored and cried ‘wolf!’ again, fooling the villagers a second time.The angry villagers warned the boy a second time and left.The boy continued watching the flock. After a while, he saw a real maneating wolf and cried loudly Wolf! Please help The wolf is chasing the sheep.
+'''
+Correct: “Don’t cry ‘wolf’ when there’s no wolf boy!”, they said angrily and left. The boy just laughed at them. After a while, he got bored and cried ‘wolf!’ again, fooling the villagers a second time. The angry villagers warned the boy a second time and left. The boy continued watching the flock. After a while, he saw a real man-eating wolf and cried loudly, “Wolf! Please help! The wolf is chasing the sheep. Help!”
+###

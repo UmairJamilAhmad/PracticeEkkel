@@ -1,0 +1,16 @@
+This is a question generator
+
+
+Garbage is a great environment hazard. It comes from various sources like used paper, tiffin packings, plastic bags, cookie wrappers, bottle caps, fallen leaves from trees and many more. Garbage makes the premises ugly, unkempt and breeds diseases. A lot of trash that is thrown away contain material that can be recycled and reused such as paper, metals and glass which can be sent to the nearest recycling centre or disposed of to the junk dealer. It also contains organic matter such as leaves which can enrich soil fertility. A compost pit can be made at a convenient location where the refuse can be placed with layers of soil and an occasional sprinkling of water. This would help decomposition to make valuable fertilizer. This would also prevent pollution that is usually caused by burning such organic waste.
+###
+Question: What is garbage?
+A. an environment hazard
+B. a natural blessing
+Answer: A
+###
+Question: Garbage makes the premises ____
+A. tragic
+B. beautiful
+C. ugly
+Answer: C
+###

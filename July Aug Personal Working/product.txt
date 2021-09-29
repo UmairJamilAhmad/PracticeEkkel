@@ -1,0 +1,10 @@
+This is a product name generator
+
+Product description: A home milkshake maker
+Seed words: fast, healthy, compact
+Product names: HomeShaker, Fit Shaker, QuickShake, Shake Maker
+###
+Product description: An Electric shaver
+Seed words: Fast, compact, organic
+Product names: SpeedShaver, CompactShaver, FastShaver
+###

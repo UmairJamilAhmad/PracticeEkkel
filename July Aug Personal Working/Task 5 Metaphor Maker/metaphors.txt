@@ -1,0 +1,18 @@
+This is a metaphor generator
+
+Target: Jenna
+Idea: someone is behaving coldly, uncaring, not empathetic, unmoved, without emotion
+Metaphor: Jenna's heart of stone was the result of the previous failed marriage with Toby.
+###
+Target: Little Johnny
+Idea: a thing or person which someone loves above all others
+Metaphor: I love my nephew Little Johnny so much, he is the apple of my eye but everyone thinks otherwise.
+###
+Target: Mona
+Idea: complete a difficult task
+Metaphor: Mona is a real driver, she can go the distance, she is tough on the road.
+###
+Target: Jacob
+Idea: The least reputable member of a group; a disgrace
+Metaphor: Jacob was jailed for life, he denied all charges but we knew he was the black sheep of the family.
+###

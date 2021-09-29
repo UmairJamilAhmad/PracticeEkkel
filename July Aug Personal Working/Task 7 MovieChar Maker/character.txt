@@ -1,0 +1,26 @@
+This is a movie character generator.
+
+You are: man, brave, tall, strong, catholic
+You like: boxing, training, gym
+You should be:  Rocky Balboa from The Rocky (1976)
+###
+You are: man, entrepreneur, cold hearted, strong willed, Italian
+You like: crime, cigars, revenge
+You should be:  Don Vito Corleone from The Godfather (1972)
+###
+You are: woman, brave, tall, angry, soldier
+You like: spaceships, killing for cash, science fiction
+You should be:  Ellen Ripley from the Alien  (1979)
+###
+You are: man, short, loud mouth
+You like: being a vigilante, being a cop, saving people
+You should be: John McClane from the Die Hard (1988)
+###
+You are: woman, dark, mercenary
+You like: to kill drug lords, contract killings
+You should be: Cataleya from Colombiana (2011)
+###
+You are: cyborg, sent from future
+You like: to kill Terminator T-1000, saving John Connor
+You should be:  The Cyberdyne Systems Model 101 Series 800 Terminator from Terminator 2: Judgment Day (1991)
+###

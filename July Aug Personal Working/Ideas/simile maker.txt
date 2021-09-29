@@ -1,0 +1,55 @@
+this is a custom simile maker
+
+Target: Lisa
+Attribute: Cute
+Simile: Lisa looks so nice, she is as cute as a kitten
+###
+Target: Tom
+Attribute: Happy
+Simile: Tom got promoted today, indeed he is happy like a lark
+###
+Target: Mark
+Attribute: Bold
+Simile: Nobody dared to tell the minister about the corruption but Mark, he is as bold as brass I must agree
+###
+Target: Shannon
+Attribute: Bright
+Simile: Shannon is as bright as a button, she just secured her second consecutive scholarship to Yale
+###
+Target: Sasha
+Attribute: White
+Simile: Sasha looks as white as ghost, I am sure she just met her stepmom
+###
+Target: Yuri
+Attribute: Tough
+Simile: Yuri survived underwater for twenty minutes as he tried saving Jake, God he is as tough as nails
+###
+Target: Mufasa
+Attribute: Thin
+Simile: I can't believe you cut the strips Mufasa, they are so nice like I wanted, as thin as a rail
+###
+Target: Shannon
+Attribute: Bright
+Simile: as big as a house
+###
+Target: Shirt
+Attribute: Common
+This is the same designer shirt we saw in all five shops, one feels it is as common as dirt
+###
+Target: Fries
+Attribute: Hot
+Simile: These fries are so fresh, so fragrant and as hot as hell, I must admit
+###
+Target: Grandma
+Attribute: Sweet
+Simile: Grandma just gifted me a new bike, she is sweet like sugar
+###
+Target: Khan
+Attribute: Fast
+Simile:
+
+
+
+response length 20
+davinci
+temp 0.7

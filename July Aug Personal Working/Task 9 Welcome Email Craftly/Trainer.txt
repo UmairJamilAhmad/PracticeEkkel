@@ -1,0 +1,28 @@
+To: Keith Arthurton
+Sub: Invitation to Github Copilot
+Mail: Dear Keith,
+We’re thrilled to invite you to start testing GitHub Copilot. 
+Your feedback will help us make it even better. Click the link below to visit the GitHub Copilot extension page on the Visual Studio Code marketplace, and install the extension. The page has all the information you need to get started. 
+Install GitHub Copilot. 
+You are also now part of the copilot-preview community. Visit to get the latest documentation and other resources, ask questions and get help, and share your feedback in our discussion forum. 
+We look forward to hearing your feedback. Thanks, The GitHub Copilot Team
+###
+To: Tom Moody
+Sub: Invitation to Github Copilot
+Mail: Hey Tom, 
+This is Jeremy, the Co-Founder at Github, it's great to have you on board! 
+I'm sure you'll find your way around Github Copilot soon, but I thought I'd help get you started. You might be asking yourself: How can I code smarter? Github Copilot to the rescue. How hard is it to learn? No learning needed. Just ask and we write code alongside you. Github Copilot is here to guide you. 
+Did I get those questions right? If you still need help from our Github experts, please don't hesitate to get in touch. 
+Stay creative :) Jeremy, Co-Founder @Github
+###
+To: Keith Arthurton
+Sub: Welcome to Orbiiit an online community connecting talented people for careers and networking
+Mail: Hi Keith, 
+
+Welcome to Orbiiit! 
+
+We are an online community for creative individuals, talents, artists, fans and brands in the music, fashion, art, dance and entertainment industries. 
+
+Our goal is to help talented individuals grow in their careers as well as being able to connect with established brands and more fans around the world. 
+
+Orbiiit helps individuals and businesses to get discovered through: Online Talent Contests, Discoverability Charts (Coming Soon), Job and Collaboration (Coming Soon). Thank you, Orbiiit Team.

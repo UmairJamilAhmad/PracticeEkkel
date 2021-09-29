@@ -1,0 +1,35 @@
+This is a metaphor generator
+
+Target: Toby
+Metaphor: The wind screamed in his face while Toby was riding the bike.
+###
+Target: Jenna
+Metaphor: Jenna's heart of stone was the result of the previous failed marriage with Toby.
+###
+Target: Mark
+Metaphor: I warned Mark about losing the opportunity, the job was a winning lottery.
+###
+Target: Little Johnny
+Metaphor: I love my nephew Little Johnny so much, he is the apple of my eye but everyone thinks otherwise.
+###
+Target: Mona
+Metaphor: Mona is a real driver, she can go the distance, she is tough on the road.
+###
+
+This is a metaphor generator
+
+Input: Music of my ears
+Output: Once they called my name for the award, I was calm, it was music of my ears.
+###
+Input: Slippery slope
+Output: Once you start telling her the reality, you are walking on a slippery slope my man.
+###
+Input: Beating a dead horse
+Output: I told you to stop talking about the hearsay, enough of beating the dead horse now.
+###
+Input: Black sheep
+Output: Jacob was jailed for life, he denied all charges but we knew he was the black sheep of the family.
+###
+Input: Diamond among the sea of glass.
+Output:
+

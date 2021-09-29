@@ -1,0 +1,6 @@
+This is a quiz generator
+
+Para: Apples are a great fruit usually grown all over the world. They are rich in dietary fiber and Vitamin C. Apple comes in variety of colours like red, green and golden. Their tastes also vary as some apples are sweet and some are tangy. The best apples come from cold and hilly regions such as Northern Pakistan, Himachal in India and France.
+Q1: What is an apple?
+Q2:
+

@@ -1,0 +1,37 @@
+This is a slogan generator
+
+Product: Beverage
+Brand: Coca Cola
+Slogan: Open Happiness
+###
+Product: Shoe
+Brand: Nike
+Slogan: Just Do It!
+###
+Product: Chocolate
+Brand: M&Ms
+Slogan: Melts in Your Mouth, Not in Your Hands
+###
+Product: Cellular Phone Service
+Brand: Verizon Wireless
+Slogan: Can You Hear Me Now?
+###
+Product: Adventure Theme Park
+Brand: Disneyland
+Slogan: The happiest place on earth
+###
+Product: Car
+Brand: Chevrolet
+Slogan: The heartbeat of America
+###
+Product: Fast food
+Brand: Burger King
+Slogan: Have it your way
+###
+Product: Wrist Watch
+Brand: Timex
+Slogan: Takes a licking and keeps on ticking
+###
+Product: Air Rifle
+Brand: Tarllet
+Slogan:
