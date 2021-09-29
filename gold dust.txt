@@ -1,0 +1,26 @@
+make function before helper function to set tool
+for api call slecting model using keyword recevied from frontend
+python -m venv venv
+
+once the venv is setup goto scripts and activate using the terminal
+pip install -r filename_dependiencise.txt (doing this for visual c++)
+functions-framework --target craftly_app (server starts in venv)
+functions-framework --target craftly_staging
+
+api calls
+json file
+content filter rating
+
+
+docx drive client training file		average output  400 i.e. 400 character 
+maxlen= char
+
+
+
+
+
+for instruct beta we use colon in first line
+for long output output like training and fix incomplete sentence is true
+short output than maxlen means training txt file has issues
+personalized cold email for format
+
